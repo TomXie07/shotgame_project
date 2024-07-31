@@ -1,0 +1,11 @@
+# CMake generation dependency list for this directory.
+D:/IDEA/OPENGL/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakeCInformation.cmake
+D:/IDEA/OPENGL/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+D:/IDEA/OPENGL/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+D:/IDEA/OPENGL/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/IDEA/OPENGL/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+D:/IDEA/OPENGL/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+D:/IDEA/OPENGL/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+D:/IDEA/OPENGL/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+E:/code/3016-CW2/build/CMakeFiles/3.28.3/CMakeCCompiler.cmake
+E:/code/3016-CW2/external/stb/CMakeLists.txt
